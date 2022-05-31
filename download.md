@@ -1,0 +1,9 @@
+## Download
+<br>
+<a href="Run A Random App.shortcut">Run A Random App</a>
+<br>
+<a href="Quick Watch YouTube.shortcut">Quick Watch YouTube</a>
+<br>
+<a href="Switch And Download.shortcut">Switch And Download - Used For The Nintendo Switch's Send To Smartphone Feature.</a>
+<br>
+<a href="Show System Info.shortcut">Show System Info</a>
